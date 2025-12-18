@@ -1,0 +1,8 @@
+
+{
+  "name": "LeetCode 每日挑战",
+  "description": "每日精选 Hot 100 题目，AI 辅助解题与代码评审，助你攻克算法难关。",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}

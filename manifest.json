@@ -1,0 +1,18 @@
+
+{
+  "name": "LeetCode 每日挑战",
+  "short_name": "LC每日",
+  "description": "每日精选 Hot 100 题目，AI 辅助算法练习。",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2306/2306223.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
